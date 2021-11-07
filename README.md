@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+# Checking spelling ---
+aple, rech, roket
+
 <!--
 **iamarindamkundu/iamarindamkundu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
