@@ -26,6 +26,7 @@ Software developer based in India. I work primarily on the Salesforce platform â
 
 ## Trailhead
 
+- **Badges:** 712
 - **Superbadges:** 33
 
 ## Certifications
