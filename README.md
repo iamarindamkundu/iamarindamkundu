@@ -28,6 +28,7 @@ Software developer based in India. I work primarily on the Salesforce platform â
 
 - **Badges:** 712
 - **Superbadges:** 33
+- **Agentblazer Rank:** Innovator #26
 
 ## Certifications
 
