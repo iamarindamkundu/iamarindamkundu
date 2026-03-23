@@ -26,10 +26,13 @@ Software developer based in India. I work primarily on the Salesforce platform â
 
 ## Certifications
 
+- Salesforce Certified Agentforce Specialist
+- Salesforce Certified Platform App Builder
 - Salesforce Certified Platform Developer
-- Salesforce Certified Administrator
-- Salesforce Platform App Builder
-- Salesforce Service Cloud Consultant
+- Salesforce Certified Platform Developer 2
+- Salesforce Certified Platform Administrator
+- Salesforce Certified Platform Foundations
+- Salesforce Certified Service Cloud Consultant
 
 ---
 
